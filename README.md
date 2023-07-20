@@ -1,2 +1,2 @@
 # Mondrian-Composition-
-I created a responsive one of popular Mondrain's composition using HTML &amp; CSS (Flexbox &amp; Grid)
+I created one of the popular Mondrain's composition having responsiveness using HTML &amp; CSS (Flexbox &amp; Grid)
